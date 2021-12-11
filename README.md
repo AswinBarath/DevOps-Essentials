@@ -19,7 +19,7 @@ What is the Agile methodology?
 -	Agile performs testing concurrently with software development whereas in Waterfall methodology testing comes after the “Build” phase.
 -	Agile allows changes in project development requirement whereas Waterfall has no scope of changing the requirements once the project development starts. 
 
-<img src="" alt="Agile vs Waterfall" />
+<img src="https://jumpgrowth.com/wp-content/uploads/2020/10/Agile-vs-Waterfall-comparison-table.jpg" alt="Agile vs Waterfall" />
 
 ### When to Use Agile vs. Waterfall
 -	Waterfall is a more traditional approach to project management, involving a linear flow. 
