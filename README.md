@@ -97,6 +97,13 @@ What is the Agile methodology?
 -	As you can see the difference in the image below, Docker containers run on top of the host’s Operation system. This helps you to improve efficiency and security. 
 -	Moreover, we can run more containers on the same infrastructure than we can run Virtual machines because containers use fewer resources.
 
+### More Resources on Docker
+
+- [Docker in 100 Seconds](https://youtu.be/Gjnup-PuquQ)
+[Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://youtu.be/gAkwW2tuIqE)
+- [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://youtu.be/3c-iBn73dDE)
+- [Deploying a MERN Application (with Docker, Atlas, and Digital Ocean!)](https://youtu.be/DftsReyhz2Q)
+
 ## Vagrant
 
 -	Vagrant is an open-source tool that helps us to automate the creation and management of Virtual Machines.
@@ -111,13 +118,22 @@ What is the Agile methodology?
 
 <img src="https://miro.medium.com/max/1200/0*pV4407g7awNTh1QP.png" alt="Vagrant" alt="600px" />
 
-### More Reading on Vagrant
+### More Resources on Vagrant
 
 - [Vagrant, What is that?](https://medium.com/@kamilmasyhur/vagrant-what-is-that-5ba440427098)
+- [Vagrant Crash Course](https://youtu.be/vBreXjkizgo)
 
 ## Chef vs Puppet vs Ansible
 
 <img src="https://www.whizlabs.com/blog/wp-content/uploads/2020/01/Ansible_Vs_Puppet_Vs_Chef.png" alt="Chef vs Puppet vs Ansible" width="800px" />
+
+### Resources
+
+- [you need to learn Ansible RIGHT NOW!! (Linux Automation)](https://www.youtube.com/watch?v=5hycyr-8EKs)
+- [Chef Tutorial | Chef Tutorial For Beginners | DevOps Chef Tutorial | DevOps Tools | Simplilearn](https://youtu.be/04oITjdLtho)
+- [Puppet Full Course | Learn Puppet Step By Step | Puppet Tutorial For Beginners | Simplilearn](https://youtu.be/F-NGOvYiV9g)
+- [Chef vs Puppet vs Ansible vs Saltstack | Configuration Management Tools | DevOps Tools | Simplilearn](https://youtu.be/_TVNCTK808I)
+- []()
 
 ---
 
@@ -130,4 +146,7 @@ What is the Agile methodology?
 
 ## Trainings and Courses
 
+- [DevOps Training](https://www.simplilearn.com/learn-devops-basics-skillup)
+- [DevOps Tools](https://www.simplilearn.com/devops-tools-free-course-skillup)
+- [Simplilearn Skillup Free Courses in DevOps](https://www.simplilearn.com/skillup-free-online-courses#DevOps)
 - [The Linux Foundation Trainings](https://training.linuxfoundation.org/training/plan-your-training/)
