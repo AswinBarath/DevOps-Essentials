@@ -150,3 +150,11 @@ What is the Agile methodology?
 - [DevOps Tools](https://www.simplilearn.com/devops-tools-free-course-skillup)
 - [Simplilearn Skillup Free Courses in DevOps](https://www.simplilearn.com/skillup-free-online-courses#DevOps)
 - [The Linux Foundation Trainings](https://training.linuxfoundation.org/training/plan-your-training/)
+
+---
+
+## YouTube Videos
+
+|  |  |
+| - | - |
+|  |  |
